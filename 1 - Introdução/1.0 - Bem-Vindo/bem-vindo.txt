@@ -1,0 +1,36 @@
+Descrição do Curso
+==============================
+
+Jornada completa de aprendizado em Python, 
+Ciência de Dados e Inteligência Artificial, 
+projetada para levar do nível básico ao desenvolvimento
+de soluções avançadas e aplicação prática no
+mercado de tecnologia.
+
+O que é o Curso:
+Treinamento prático focado na construção de portfólio real,
+abordando desde os pilares da programação e 
+análise de dados até o desenvolvimento de 
+modelos de aprendizado de máquina e IA generativa.
+
+O que será aprendido:
+- Fundamentos de Programação e POO (Projetos práticos
+como games e sistemas bancários)
+
+- Ciência de Dados e Análise Preditiva (NumPy, Pandas,
+Statsmodels e analises de e-commerce)
+
+- Interfaces Interativas de Deploy (Criação de 
+aplicações com Streamlit)
+
+- Machine Learning & MLOps (Modelos de classificação,
+analise de sentimentos e ciclo de vida de IA)
+
+- Deep Learning & IA Generativa (Redes neurais com 
+PyTorch, LLMs, arquitetura RAG e agentes autônomos)
+
+
+Projetos de Portfólio:
+Desenvolvimento de 10 mini-projetos aplicados a 
+cenarios do dia a dia, incluindo assistente de código
+e automações inteligentes.
