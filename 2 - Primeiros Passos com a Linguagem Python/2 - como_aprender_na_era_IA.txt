@@ -1,0 +1,3 @@
+ O curso vai ensinar a estudar Python da melhor forma,
+ programando na prática e se necessário usando IA como deve
+ ser usada, como uma ferramenta.

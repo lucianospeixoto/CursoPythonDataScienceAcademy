@@ -1,0 +1,6 @@
+Este capítulo traz os detalhes de como montar seu
+ambiente de trabalho para acompanhar este curso. 
+
+Você vai ainda compreender na prática o conceito de Vibe Coding 
+e então trabalhar no primeiro Estudo de Caso para construir
+o DSA AI Coder
