@@ -1,0 +1,5 @@
+Livros Recomendados:
+
+Intro to Python
+Think Python
+Effective Python

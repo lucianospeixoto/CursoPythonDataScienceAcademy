@@ -1,0 +1,20 @@
+Conteúdo Programático
+
+--------------------------------------------------------------
+Básico:
+Ponto mais básico em Programação Python
+
+Analytics:
+Vamos mergulhar nas principais ferramentas Python para 
+Análise de Dados e aplicar na prática o conhecimento fundamental
+da linguagem.
+
+Estatistica, Machine Learning e Data Science:
+Vamos desenvolver habilidades para resolver prblemas de
+negócios com Análise Estatistica, Aprendizado de máquina
+e Data Science com Linguagem Python.
+
+Inteligência Artificial:
+Irá construir aplicações de IA em Python com as técnicas
+mais atuais do mercado.
+
