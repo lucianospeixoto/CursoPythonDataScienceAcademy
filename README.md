@@ -9,7 +9,17 @@ O objetivo deste projeto é documentar meu aprendizado prático e evolução nos
 ## 📌 Conteúdo do Repositório
 
 ### 📁 1 - Introdução
-* **1.0 - Bem-Vindo:** Visão geral do curso, objetivos de aprendizado e estrutura da jornada (`bem-vindo.txt`).
+* **1.0 - Bem-Vindo:** 
+* **2.0 - Vale a pena aprender com IA?:** 
+* **3.0 - Conteúdo Programático:** 
+* **4.0 - Bibliografica Recomendada:** 
+* **5.0 - Abordagem:** 
+
+### 📁 2 - Primeiros passos com a linguagem de programação Python
+* **1.0 - Introdução:** 
+* **2.0 - Como aprender na Era da IA:** 
+* **3.0 - Vibecoding?:** 
+* **4.0 - Testes VS Code:** 
 
 ---
 
